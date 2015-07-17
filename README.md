@@ -21,7 +21,7 @@ What has been done
 While this is a work in progress, some things has been done :
 
 * Initial migration using the grails 2 plugin `migrate2-grails3:0.3.2` to do the tedious work (thanks for it's author)
-* Rewrite of ShiroFilters -> ShiroInterceptor
+* Rewrite of `ShiroFilters` -> `ShiroInterceptor`
 * Fix of broken imports
 * Fix of broken tests
 
