@@ -6,7 +6,7 @@ Grails 3 plugin for the Apache Shiro security framework.
 Why another shiro plugin for Grails?
 ------------------------------------
 
-The original plugin maintenance has stop for a while :
+The original plugin maintenance has stopped for a while :
 https://github.com/pledbrook/grails-shiro/issues/44
 
 Status
@@ -29,7 +29,7 @@ While this is a work in progress, some things has been done :
 Left to do
 ----------
 
-* Test with a grails 3 app
+* Test with a grails 3 app (run scripts, Travis tests)
 * Get more eye-balls to check, correct the code (hopefully you)
 
 Goals
